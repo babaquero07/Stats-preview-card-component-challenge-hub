@@ -91,5 +91,3 @@ We love receiving feedback! We're always looking to improve our challenges and o
 This challenge is completely free. Please share it with anyone who will find it useful for practice.
 
 # **Have fun building!** 🚀
-
-> > > > > > > d3be213aa308cd85ae399660930ac1c4439ab6
